@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Rebecca's Blog</title>
+    <meta charset="UTF-8"> 
+    <link href="styles/main.css" rel="stylesheet" type="text/css">   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
 
+    </style>
+  </head>
+  <body>
+    <div class ="top-heading">Hello, and welcome to Helping Hands!</h1>
+        <a href="index.html">Home</a>
+    </div>
+ </body>
+<footer></footer>
+ 
